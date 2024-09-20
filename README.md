@@ -11,7 +11,7 @@ https://taskmaster-lh.netlify.app/
 ## WEB SITE
 1- *Tela principal*
 
-![Tela Principal](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/Principal.png)
+![Tela Principal]([https://github.com/Luizynhoo/Prime_Flix/blob/main/img/Principal.png](https://github.com/Luizynhoo/TaskMaster/blob/main/img/Tela%20principal.png))
 
 2- *Tela lista de tarefas*
-![Tela informativa dos filmes](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/informativo.png)
+![Tela lista de tarefas](https://github.com/Luizynhoo/TaskMaster/blob/main/img/Captura%20de%20tela%202024-09-20%20005153.png)
