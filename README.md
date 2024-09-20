@@ -13,8 +13,5 @@ https://taskmaster-lh.netlify.app/
 
 ![Tela Principal](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/Principal.png)
 
-2- *Tela informativa dos filmes*
+2- *Tela lista de tarefas*
 ![Tela informativa dos filmes](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/informativo.png)
-
-3- *Tela de favoritos*
-![Tela de favoritos](https://github.com/Luizynhoo/Prime_Flix/blob/main/img/meusFilmes.png)
